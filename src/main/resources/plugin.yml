@@ -1,0 +1,7 @@
+name: 404Server
+main: me.bitterpeacev.server.Main
+version: 0.0.1
+api: ["1.0.7"]
+author: BitterPeaceV
+description: Nukkit plugin for 404Server
+website: https://github.com/BitterPeaceV/404Server
